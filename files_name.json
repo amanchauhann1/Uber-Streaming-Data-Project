@@ -1,9 +1,9 @@
 [
-{ "file_name":"bulk_rides.json"},
-{" file_name":"map_cancellation_reasons.json"},
-{ " file_name":"map_cities.json"},
-{ " file_name":"map_payment_methods.json"},
-{ " file_name":"map_ride_statuses.json"},
-{ " file_name":"map_vehicle_makes.json"},
-{ " file_name":"map_vehicle_types.json"}
+{"file_name":"bulk_rides.json"},
+{"file_name":"map_cancellation_reasons.json"},
+{"file_name":"map_cities.json"},
+{"file_name":"map_payment_methods.json"},
+{"file_name":"map_ride_statuses.json"},
+{"file_name":"map_vehicle_makes.json"},
+{"file_name":"map_vehicle_types.json"}
 ]
